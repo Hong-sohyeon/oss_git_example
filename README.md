@@ -64,5 +64,5 @@ git remote add origin 원격저장소링크  //github 원격저장소와 연결
 git push origin 브랜치이름            //업로드
 ```
 -------------
-### Week3 Markdown
+## Week3 Markdown
 ![How to markdown](markdown.png)
