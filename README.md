@@ -49,7 +49,7 @@ Q. WHAT IS **OSS LICENSE**?
 -------------
 ## Week2-3 Github, fork, pull request
 
-![git workflow](git_workflow.png)
+![git workflow](workflow.png)
 
 -------------
 ## Week2-4 Git: Advanced topics
