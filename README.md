@@ -1,4 +1,4 @@
-# 오픈소스SW개발론
+# 오픈소스소프트웨어
 
 ## Introduction
 Software whose copyright holder gives the right to publish, use, copy, modify, and distribute the source code to everyone.
@@ -26,7 +26,8 @@ Q. WHAT IS **OPEN SOURCE SOFTWARE**?
 
 Q. WHAT IS **OSS LICENSE**?
 > The scope of use, reproduction, modification, and distribution rights of the open source software  
->(ex. GPL, LGPL, MIT, BSD, Apache, MPL)
+: 오픈소스 소프트웨어의 사용, 복제, 수정, 배포 권한의 범위를 지정  
+(ex. GPL, LGPL, MIT, BSD, Apache, MPL)
 
 -------------
 ## Week2-1 버전 관리 개요
@@ -53,8 +54,8 @@ Q. WHAT IS **OSS LICENSE**?
 
 -------------
 ## Week2-4 Git: Advanced topics
-> git 실습하기
->> Collaboration
+> [git 실습하기](www.markdowntutorial.com)  
+Collaboration
 
 ```python
 git init                              //git 사용선언
